@@ -1,0 +1,4 @@
+app.use(express.static("path/to/")) need to add the path to the (server) js file
+examples
+
+app.use(express.static("public"))

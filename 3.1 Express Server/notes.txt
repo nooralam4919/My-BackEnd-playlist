@@ -1,0 +1,6 @@
+
+1. GET -> request the resource from the server
+2. POST -> sending the resource to the server
+3. PUT  -> update the resource by replacing it completely
+4. PATCH -> replacing the resource 
+5. DELETE -> deleting the resource from client side computer to server side computer

@@ -1,0 +1,9 @@
+ STEPS 
+
+1. cd
+2. npm install -y
+3. npm install express and othe middleware
+4. go to package.json to change the type to ("type", module")
+
+
+or crater the file mkdir (uder) the view file (tou)

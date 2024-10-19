@@ -1,0 +1,9 @@
+MiddleWare
+
+1.pre-processing (MiddleWare) -> boby-parser
+
+2.Authenticatoin 
+
+3. Error handling 
+
+4 LogIn  (MiddleWare) -> morgan

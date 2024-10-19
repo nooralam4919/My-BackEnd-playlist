@@ -1,0 +1,43 @@
+ javascript key is javascript key
+
+
+ex 
+const wardrobe ={
+    door : 2,
+    drawers:2,
+    color : "black",
+}
+
+{
+    name: "nooralam",
+    villge : "siwan",
+}
+
+
+BUT
+json is objec in  the key and value pair in which key and value is a string
+
+it reduces in minimal size
+
+"{"door":2,"drawers":2,"color":"black",}" is a string 
+
+
+{
+    "name": "nooralam",
+     "villge" : "siwan",
+}
+
+    TO READ JSON UINSG (jsonviewer.stack.hu)
+
+    to send the javascript object -> JSON you need to proform the cirialization of the object into a JSON
+
+    use the method to 
+    ((const jsonData = JSON.stringify(data)) in this (data) is this javascript object
+
+    
+reverse JSON->javascript object
+
+        to send the JSON -> javascript object
+
+    use the method to 
+    ((const data = JSON.parse(jsonData)) in this (jsonData) is this JSON

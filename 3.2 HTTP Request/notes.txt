@@ -1,0 +1,9 @@
+
+
+Informational responseis (100 - 199)   Hold on informaiton processing
+Seccessfull response  (200 - 299)       here you go
+Redirection response (300 - 399)            go away
+Client error response (400 - 499)          you fucked up
+Server error response (500 - 599)          i fucked up
+
+developer.mozilla.org/docs/web/HTTP/status

@@ -1,0 +1,11 @@
+<%= variable %>           JS objects shown output in the html file
+
+<% console.log("nooralam") %>   (no output)  JS Execute, write js in the html file (only runs a code doest Execute),,,,,,, (((( ))))
+
+<%- <h1>hello</h1>%>   Render in HTML, write js in the html file, (shown in the html file output)                        
+
+<%%   %%>
+
+<%# thie is a comment (//) %>              stop execution
+
+<%- include("header.ejs") %>           Insert anotheer EJS file

@@ -1,0 +1,29 @@
+1. Endpoint -> it is the endpoint in the api 
+ex
+https://bored-api.appbrewery.com/random
+
+(random) is the endpoint in the api
+
+2. Query Parameters (?) -> it is the query parameters in the api
+ex
+ https://bored-api.appbrewery.com/random?query=value
+
+(?query=value) is the query parameters in the api
+
+3. Multiple Query Parameters (&) -> it is the query parameters in the api adding with multiple query parameters (&)
+ex
+ https://bored-api.appbrewery.com/random?query=value&query2=value
+
+(&query2=value) is the Multiple query parameters in the api
+adding more query parameters by adding &
+
+4. Path Parameters (?) -> it is the path
+ex
+ https://bored-api.appbrewery.com/endpoint/{path-parameters}
+
+ {path-parameters} is the path parameters of api which is very pecific (unique)  like (id, username) for filtering
+
+
+
+public api
+https://secrets-api.appbrewery.com/

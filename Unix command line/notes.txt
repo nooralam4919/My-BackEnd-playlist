@@ -1,0 +1,22 @@
+add project on github.com
+
+step 1: create remote repository by command (git remote add origin repository name)
+
+
+
+
+
+
+
+
+
+
+create file to ignore files (touch .gitignore)
+
+git add .
+
+git status    to see which files is not goging to add to github.com
+
+git commit -m " Initial commit"
+
+($ git rm --cached -r .) remove all the files form the staging directory
